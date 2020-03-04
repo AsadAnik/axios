@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-*** Install AXIOS with -->> ### `npm i axios`
+## Installing AXIOS...
+    ### `npm i axios`
 
 ## Available Scripts
 
